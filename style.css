@@ -18,8 +18,8 @@ text-shadow:#2EFEF7 4px 4px;
 }
 
 #links {
-margin:280px;
-padding:20px;
+margin:i inherit;
+padding: inherit;
 display: inline;
 font-family: 'Marck Script', cursive;
 font-size: 20px;
@@ -33,6 +33,7 @@ a:visited {
 }
 
 
-a:hover {
+a:hover { 
     color:#ffffff;
+
 }
