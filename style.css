@@ -26,8 +26,11 @@ font-size: 20px;
 color:#000000;
 font-size:50px;
 text-shadow:#2EFEF7 2px 2px;
-} 
+}
 
+a:visited {
+  color:#000000
+}
 
 
 a:hover {
