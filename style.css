@@ -23,7 +23,6 @@ padding: inherit;
 display: inline;
 font-family: 'Marck Script', cursive;
 font-size: 20px;
-color:#000000;
 font-size:50px;
 text-shadow:#2EFEF7 2px 2px;
 }
@@ -31,8 +30,7 @@ a {
   color:#00FF00;
   text-decoration: none;
 }
-a:visited {
-  color:#0101DF;
+
 }
 
 a:hover {
