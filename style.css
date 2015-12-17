@@ -18,7 +18,8 @@ text-shadow:#2EFEF7 4px 4px;
 }
 
 #links {
-  display: inline-block;
+display:
+block;
 margin: inherit;
 padding: inherit;
 display: inline;
@@ -50,8 +51,4 @@ a:visited {
 }
 a:hover {
     color:#000000;
-    text-decoration: none;
-    font-size:70px;
-    list-style-type: none;
-
 }
