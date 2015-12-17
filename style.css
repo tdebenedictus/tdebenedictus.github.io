@@ -26,7 +26,7 @@ font-size: 20px;
 font-size:50px;
 text-shadow:#2EFEF7 2px 2px;
 }
-a.link {
+a {
   color:#FF8000;
   text-decoration: none;
   list-style-type: none;
