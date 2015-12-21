@@ -18,27 +18,35 @@ text-shadow:#2EFEF7 4px 4px;
 }
 
 #links {
-display:
-block;
 margin: inherit;
 padding: inherit;
-display: inline;
 font-family: 'Marck Script', cursive;
 font-size: 20px;
 font-size:50px;
-text-shadow:#2EFEF7 2px 2px;
+text-shadow:#2EFEF7 2px 2px
 }
 
+.dropdown-menu {
+  width: 200px;
+}
 ul {
   list-style: none;
   display:inline;
 }
-
+li {
+  display: inline;
+  float: left;
+  width:200px;
+}
 a {
   color:#FF8000;
   text-decoration: none;
   list-style:none;
+<<<<<<< HEAD
   display: inline;
+=======
+  width: 2em;
+>>>>>>> origin/master
 
 }
 a:active {
