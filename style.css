@@ -25,9 +25,25 @@ font-size:50px;
 text-shadow:#2EFEF7 2px 2px
 }
 
-.dropdown-menu {
-  width: 200px;
+#body {
+  margin: 10em;
+  padding: 0;
+
 }
+
+.navbar li{
+  width:5em;
+  padding: 0px;
+  margin: 0px;
+}
+.dropdown-menu {
+
+}
+
+.dropdown {
+
+}
+
 ul {
   list-style: none;
   display:inline;
