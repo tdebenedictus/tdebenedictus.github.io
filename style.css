@@ -21,20 +21,16 @@ text-shadow:#2EFEF7 4px 4px;
 margin: inherit;
 padding: inherit;
 font-family: 'Marck Script', cursive;
-font-size:50px;
+font-size:3em;
 text-shadow:#2EFEF7 2px 2px
 }
 
-#body {
-  margin: 10em;
-  padding: 0;
 
-}
-
-.navbar li{
-  width:5em;
+.navbar li {
+  width:5.5em;
   padding: 0px;
   margin: 0px;
+  display: inline;
 }
 .dropdown-menu {
 
@@ -50,7 +46,7 @@ ul {
   width: 4em;
 }
 li {
-  display: inline;
+  display: inline-block;
   float: left;
   width:200px;
 }
@@ -58,7 +54,7 @@ a {
   color:#FF8000;
   text-decoration: none;
   list-style:none;
-  display: inline;
+  display: inline-block;
   width: 4em;
 }
 
@@ -75,8 +71,4 @@ a:visited {
 }
 a:hover {
     color:#000000;
-}
-
-li {
-  display: inline;
 }
